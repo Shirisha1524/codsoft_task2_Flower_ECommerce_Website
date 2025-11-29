@@ -33,3 +33,5 @@ Learning HTML & CSS structure
 Building a clean and aesthetic layout
 
 Adding a project to portfolio/GitHub
+
+📬 Contact If you like this project, feel free to ⭐ star the repo! You can connect with me on LinkedIn as well.
