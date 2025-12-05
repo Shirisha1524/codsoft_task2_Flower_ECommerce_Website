@@ -1,5 +1,5 @@
 # codsoft_task2_websiteLandingPage
-A simple and beautiful Flower Bouquet Website created using only HTML and CSS.
+A simple and beautiful Flower Bouquet Website created using only HTML and CSSand Javascript.
 This project displays different flowers, bouquets, and basic website sections with a clean and modern UI.
 
 🌼 Features
@@ -14,13 +14,14 @@ Simple navigation
 
 Sections: Home, About, Services, Contact
 
-Made using only HTML & CSS
+Made using only HTML & CSS and javascript
 
 🌷 Technologies Used
 
 HTML5
 
 CSS3
+Javascript
 
 🌺 Purpose of the Project
 
@@ -28,7 +29,7 @@ This website is created for:
 
 Practicing frontend development
 
-Learning HTML & CSS structure
+Learning HTML & CSS structure and javascript.
 
 Building a clean and aesthetic layout
 
